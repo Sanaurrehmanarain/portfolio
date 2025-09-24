@@ -118,7 +118,7 @@ I leverage modern data ecosystems to deliver scalable, impactful solutions:
 
 ## 📫 Connect with Me  
 
-- 🌐 [Portfolio Website](https://sanaurrehmanarain.github.io/sana.github.io/)
+- 🌐 [Portfolio Website](https://sanaurrehmanarain.github.io/portfolio/)
   
 - 💼 [LinkedIn](https://www.linkedin.com/in/sana-ur-rehman-arain)
   
