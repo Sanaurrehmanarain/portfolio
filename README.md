@@ -14,10 +14,11 @@ I specialize in leveraging data to drive business decisions, optimize processes,
 ## 🎓 Education  
 
 - 🎓 **MSc in Financial Engineering** — *WorldQuant University*  
-- 🎓 **MBA in Business Analytics** —    *O.P. Jindal Global University*  
-- 🎓 **BSc Computer Science** —         *University of the People*  
-- 🎓 **BSc Business Administration** —  *University of the People*  
-- 🎓 **Bachelor of Commerce** —         *University of Sindh*  
+- 🎓 **MBA in Business Analytics** — *O.P. Jindal Global University*  
+- 🎓 **BSc Computer Science** — *University of the People*  
+- 🎓 **BSc Business Administration** — *University of the People*
+- 🎓 **M.A Economics** — *Andhra University*   
+- 🎓 **Bachelor of Commerce** — *University of Sindh*  
 
 ---
 
@@ -56,10 +57,14 @@ I specialize in leveraging data to drive business decisions, optimize processes,
 - 🏅 IBM Data Science
   
 - 🏅 IBM Data Analyst
+
+- 🏅 IBM Data Engineering
    
 - 🏅 Johns Hopkins University Data Science
    
-- 🏅 Tableau Business Intelligence Analyst Specialization  
+- 🏅 Tableau Business Intelligence Analyst Specialization
+
+- 🏅 Microsoft Power BI Analyst
 
 ---
 
